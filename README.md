@@ -7,5 +7,5 @@ ns_id
 
 ผลที่ออกมาจะเป็นข้อมูล One Map .html 1 ไฟล์
 
-![Uploading image.png…]()
+
 
